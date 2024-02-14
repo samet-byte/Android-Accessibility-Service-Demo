@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Accessibility Service Demo</string>
+    <string name="accessibility_service_label">My Accessibility Service</string>
+    <string name="accessibility_service_description">My Accessibility Service</string>
+</resources>
